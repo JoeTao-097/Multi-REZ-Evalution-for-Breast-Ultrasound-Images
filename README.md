@@ -1,5 +1,5 @@
 # Multi-REZ-Evalution-for-Breast-Ultrasound-Images
-We provide code, model weights (EfficientNetB0, MobileNet, Xception, ResNet50 and DenseNet121, for 224*224, 320*320, 448*448 input resolution) and a test set with 300 breast ultrasound images for physician-ai comparasion in this respository.
+We provide code, model weights (EfficientNetB0, MobileNet, Xception, ResNet50 and DenseNet121, for 224\*224, 320\*320, 448\*448 input resolution) and a test set with 300 breast ultrasound images for physician-ai comparasion in this respository.
 
 All models output predictions have been saved in 'model and physicians performance on AI-Physician Comparasion set' dictionary.
 3oo test images for physician-ai comparasion are saved in 'Images of AI-Physician Comparasion'.
