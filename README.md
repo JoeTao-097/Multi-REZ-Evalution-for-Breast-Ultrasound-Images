@@ -3,7 +3,8 @@ We provide code, model weights (EfficientNetB0, MobileNet, Xception, ResNet50 an
 
 All models output predictions have been saved in 'model and physicians performance on AI-Physician Comparasion set' dictionary.
 3oo test images for physician-ai comparasion are saved in 'Images of AI-Physician Comparasion'.
-15 model weights are available from https://drive.google.com/drive/folders/1Vk7vMobeO0ZqbZwR1ErmDxP4PnAPEzyq?usp=sharing \n Staticial figures are saved in 'Figures'.
+15 model weights are available from https://drive.google.com/drive/folders/1Vk7vMobeO0ZqbZwR1ErmDxP4PnAPEzyq?usp=sharing 
+Staticial figures are saved in 'Figures'.
 
 To test model performance on 300 image test set, run Model_test.py.
 To draw models comparasion figure, run Model Perfomance Comparasion.py.
